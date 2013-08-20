@@ -1,6 +1,6 @@
 Shape Shooter
 =============
 
-A side scroller shooting game based on createJS library.
+A side scroller shooting game using createJS library.
 
 Demo: http://goldenratio.github.io/shape-shooter/
