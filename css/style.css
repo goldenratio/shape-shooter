@@ -54,7 +54,6 @@ body
     height: 480px;
     margin-top: 50px;
     overflow: hidden;
-    display: block;
-    box-shadow: 0px 0px 60px 20px #0a0a0a;
+    display: block; 
 
 }
